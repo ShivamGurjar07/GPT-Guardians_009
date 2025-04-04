@@ -11,7 +11,7 @@ The purpose of this project is to provide a collection of ready-made UI elements
 Frontend
 
 ## Deplolyed App
-Frontend: https://keen-granita-68a4ab.netlify.app/
+Frontend: https://super-fudge-8dbab4.netlify.app/
 
 
 ## Directory Structure
